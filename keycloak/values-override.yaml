@@ -1,0 +1,3 @@
+keycloak:
+  createIngress: true
+  host: keycloak.tcbx.opsmx.org
